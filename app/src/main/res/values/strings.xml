@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DeviceScanner</string>
+    <item type="integer" name="REQUEST_ENABLE_BT" format="integer">0</item>
 </resources>
